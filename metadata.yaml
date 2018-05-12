@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31239'
     url: http://www.gutenberg.org/2009/agents/31239
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25318#Studi-intorno-alla-storia-della-Lombardiadei-lombardi
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2008-05-03'
 gutenberg_type: Text
