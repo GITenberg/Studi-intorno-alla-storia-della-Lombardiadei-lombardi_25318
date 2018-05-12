@@ -1,0 +1,33 @@
+_repo: Studi-intorno-alla-storia-della-Lombardiadei-lombardi_25318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belgioioso, Cristina
+    aliases:
+    - Trivulzio, Cristina
+    - Trivulce de Belgiojoso, Christine
+    - Barbiano di Belgioioso, Cristina
+    - Belgioioso, Cristina Trivulzio di
+    birthdate: 1808
+    deathdate: 1871
+    gutenberg_agent_id: '31239'
+    url: http://www.gutenberg.org/2009/agents/31239
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25318'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lombardy (Italy) -- History'
+- !lcc 'DG'
+title: "Studi intorno alla storia della Lombardia\r\nnegli ultimi trent'anni e delle\
+  \ cagioni del difetto d'energia dei lombardi"
+url: http://www.gutenberg.org/ebooks/25318
